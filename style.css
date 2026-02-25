@@ -1323,7 +1323,7 @@ section {
   }
 
   .footer-inner {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: flex-start;
     gap: 40px;
   }
