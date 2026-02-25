@@ -65,7 +65,7 @@
         return;
       }
 
-      formNote.textContent = '✅ Thank you! We'll reach out on WhatsApp shortly.';
+      formNote.textContent = '✅ Thank you! We\'ll reach out on WhatsApp shortly.';
       formNote.style.color = '#86efac';
       phoneInput.value = '';
 
